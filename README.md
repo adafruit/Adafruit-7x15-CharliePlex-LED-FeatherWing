@@ -1,4 +1,4 @@
-## Adafruit 7x15 CharliePlex LED FeatherWings
+## Adafruit 7x15 CharliePlex LED FeatherWings PCB
 <a href="http://www.adafruit.com/products/3134"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
